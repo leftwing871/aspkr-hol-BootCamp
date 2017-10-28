@@ -1,3 +1,3 @@
 <html>
-    <body><% out.println("asp.net kr!!"); %></body>
+    <body><% out.println("asp.net kr-0000!!"); %></body>
 </html>
